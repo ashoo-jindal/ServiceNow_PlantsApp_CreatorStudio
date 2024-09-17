@@ -14,9 +14,7 @@
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
         <description><![CDATA[<h3>Welcome to the Office Plant Adoption Program! &#x1f33f;</h3>
-<p>Bring nature into your workspace by adopting your very own office plant! Plants not only brighten up the environment but also help purify the air and boost your mood. This program is designed to let you adopt a plant that fits your workspace and lifestyle, with care instructions to help it thrive.</p>
-<h4>How to Adopt Your Plant</h4>
-<p>Simply fill out the form below with your preferences, and we’ll match you with the perfect plant. Whether you’re looking for something low-maintenance or a plant that needs a little extra love, we’ve got you covered.</p>]]></description>
+<p>Bring nature into your workspace by adopting your very own office plant! Plants not only brighten up the environment but also help purify the air and boost your mood. This program is designed to let you adopt a plant that fits your workspace and lifestyle, with care instructions to help it thrive.</p>]]></description>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
         <flow_designer_flow/>
@@ -92,14 +90,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-09-17 11:07:30</sys_created_on>
         <sys_id>fdb23404c3b092105b13b34ed401312a</sys_id>
-        <sys_mod_count>11</sys_mod_count>
+        <sys_mod_count>13</sys_mod_count>
         <sys_name>Plant Adoption Request Form</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Plant Adoption Program">f4227cc0c3b092105b13b34ed4013147</sys_scope>
         <sys_update_name>sc_cat_item_producer_fdb23404c3b092105b13b34ed401312a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-09-17 11:54:18</sys_updated_on>
+        <sys_updated_on>2024-09-17 12:09:57</sys_updated_on>
         <table_name>x_1066037_plant_0_request</table_name>
         <taxonomy_topic/>
         <template/>
@@ -107,7 +105,7 @@
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>3</version>
+        <version>5</version>
         <view/>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
@@ -127,9 +125,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-09-17 11:07:31</sys_created_on>
         <sys_id>c2b2bc04c3b092105b13b34ed40131cc</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-09-17 11:54:18</sys_updated_on>
+        <sys_updated_on>2024-09-17 12:09:57</sys_updated_on>
         <table>sc_cat_item_producer</table>
         <type>calculated</type>
     </fx_price>
