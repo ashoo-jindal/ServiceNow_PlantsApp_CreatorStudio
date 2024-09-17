@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
     <question_choice action="INSERT_OR_UPDATE">
         <inactive>false</inactive>
+        <misc>0</misc>
         <order>2</order>
         <published_ref/>
         <question display_value="Care Level">51373888c3b092105b13b34ed4013138</question>
+        <rec_misc>0</rec_misc>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-09-17 11:27:41</sys_created_on>
